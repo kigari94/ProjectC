@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.projektc'
+    namespace 'de.haw_hamburg.projektc'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.projektc"
+        applicationId "de.haw_hamburg.projektc"
         minSdk 24
         targetSdk 32
         versionCode 1
