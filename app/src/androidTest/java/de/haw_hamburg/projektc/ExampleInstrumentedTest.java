@@ -1,4 +1,4 @@
-package com.example.projektc;
+package de.haw_hamburg.projektc;
 
 import android.content.Context;
 

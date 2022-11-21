@@ -1,4 +1,4 @@
-package com.example.projektc;
+package de.haw_hamburg.projektc;
 
 import org.junit.Test;
 

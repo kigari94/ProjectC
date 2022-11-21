@@ -1,8 +1,10 @@
-package com.example.projektc;
+package de.haw_hamburg.projektc;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.projektc.R;
 
 public class MainActivity extends AppCompatActivity {
 
