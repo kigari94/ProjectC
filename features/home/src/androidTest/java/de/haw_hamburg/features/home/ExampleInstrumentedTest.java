@@ -1,4 +1,4 @@
-package com.example.projektc;
+package de.haw_hamburg.features.home;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.projektc", appContext.getPackageName());
+        assertEquals("de.haw_hamburg.features.home.test", appContext.getPackageName());
     }
 }

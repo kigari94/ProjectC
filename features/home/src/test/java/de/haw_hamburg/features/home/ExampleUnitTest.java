@@ -1,4 +1,4 @@
-package com.example.projektc;
+package de.haw_hamburg.features.home;
 
 import org.junit.Test;
 
