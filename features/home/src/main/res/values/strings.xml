@@ -1,1 +1,9 @@
-<resources></resources>
+<resources>
+    <string-array name="moduleNames">
+        <item>Module 1</item>
+        <item>Module 2</item>
+        <item>Module 3</item>
+        <item>Module 4</item>
+        <item>Module 5</item>
+    </string-array>
+</resources>
