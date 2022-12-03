@@ -6,4 +6,5 @@
         <item>Module 4</item>
         <item>Module 5</item>
     </string-array>
+    <string name="app_name">HomeActivity</string>
 </resources>

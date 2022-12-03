@@ -13,9 +13,7 @@ public class HomeActivity extends AppCompatActivity {
     ArrayList<HomeModel> homeModels = new ArrayList<>();
 
     int[] homeModuleImages = {R.drawable.ic_launcher_foreground, R.drawable.ic_launcher_background,
-            androidx.constraintlayout.widget.R.drawable.abc_ic_star_black_16dp,
-            com.google.android.material.R.drawable.abc_ic_star_half_black_16dp,
-            androidx.constraintlayout.widget.R.drawable.abc_ic_star_half_black_48dp};
+            R.drawable.ic_launcher_foreground,R.drawable.ic_launcher_foreground,R.drawable.ic_launcher_foreground};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
