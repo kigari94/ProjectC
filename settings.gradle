@@ -16,3 +16,4 @@ rootProject.name = "ProjektC"
 include ':app'
 include ':features:home'
 include ':core:data'
+include ':features:map'
