@@ -25,20 +25,11 @@ public class ApiRequests {
         mRequestQueue = Volley.newRequestQueue(context);
 
         //String Request initialized
-        mStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
-            @Override
-            public void onResponse(String response) {
+        mStringRequest = new StringRequest(Request.Method.GET, url, response -> {
 
-                Toast.makeText(context.getApplicationContext(),"Response :" + response.toString(), Toast.LENGTH_LONG).show();//display the response on screen
+            Toast.makeText(context.getApplicationContext(),"Response :" + response.toString(), Toast.LENGTH_LONG).show();//display the response on screen
 
-            }
-        }, new Response.ErrorListener() {
-            @Override
-            public void onErrorResponse(VolleyError error) {
-
-                Log.i(TAG,"Error :" + error.toString());
-            }
-        });
+        }, error -> Log.i(TAG,"Error :" + error.toString()));
 
         mRequestQueue.add(mStringRequest);
     }

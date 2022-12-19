@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color CPP
+color Java
+color Python
+color R
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color color_one
+color color_two
+color color_white
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id cardViewGraph
+id details
+id piechart
+id tvCPP
+id tvJava
+id tvPython
+id tvR
+layout activity_greenindex
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.ProjektC

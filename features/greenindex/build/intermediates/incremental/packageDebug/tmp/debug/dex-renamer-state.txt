@@ -1,0 +1,13 @@
+#Fri Dec 16 16:50:25 CET 2022
+path.3=10/classes.dex
+path.2=0/classes.dex
+path.1=12/classes.dex
+path.0=classes.dex
+base.3=D\:\\Development\\ProjektC\\ProjectC\\features\\greenindex\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.2=D\:\\Development\\ProjektC\\ProjectC\\features\\greenindex\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\Development\\ProjektC\\ProjectC\\features\\greenindex\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\12\\classes.dex
+base.0=D\:\\Development\\ProjektC\\ProjectC\\features\\greenindex\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

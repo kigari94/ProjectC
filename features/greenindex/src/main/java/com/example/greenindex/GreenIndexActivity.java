@@ -12,7 +12,7 @@ public class GreenIndexActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_greenindex);
 
         apiRequests.getDataFromApi(url, this);
     }
