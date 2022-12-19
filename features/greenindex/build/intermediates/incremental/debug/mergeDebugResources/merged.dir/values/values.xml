@@ -596,10 +596,8 @@
     <bool name="abc_action_bar_embed_tabs">true</bool>
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="mtrl_btn_textappearance_all_caps">true</bool>
-    <color name="CPP">#EF5350</color>
-    <color name="Java">#29B6F6</color>
-    <color name="Python">#66BB6A</color>
-    <color name="R">#FFA726</color>
+    <color name="Andere">#777777</color>
+    <color name="GSI">#66BB6A</color>
     <color name="abc_decor_view_status_guard">#ff000000</color>
     <color name="abc_decor_view_status_guard_light">#ffffffff</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>

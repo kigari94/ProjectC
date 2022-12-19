@@ -1,9 +1,7 @@
 R_DEF: Internal format may change without notice
 local
-color CPP
-color Java
-color Python
-color R
+color Andere
+color GSI
 color black
 color colorAccent
 color colorPrimary
@@ -19,13 +17,10 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id buttonSubmit
 id cardViewGraph
-id details
+id editTextNumber
 id piechart
-id tvCPP
-id tvJava
-id tvPython
-id tvR
 layout activity_greenindex
 mipmap ic_launcher
 mipmap ic_launcher_round

@@ -1265,10 +1265,8 @@ attr yearTodayStyle
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
 bool mtrl_btn_textappearance_all_caps
-color CPP
-color Java
-color Python
-color R
+color Andere
+color GSI
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -2779,6 +2777,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id buttonPanel
+id buttonSubmit
 id cache_measures
 id callMeasure
 id cancel_button
@@ -2830,7 +2829,6 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
-id details
 id dialog_button
 id dimensions
 id direct
@@ -2852,6 +2850,7 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id editTextNumber
 id edit_query
 id elastic
 id embed
@@ -3136,10 +3135,6 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-id tvCPP
-id tvJava
-id tvPython
-id tvR
 id unchecked
 id uniform
 id unlabeled
